@@ -1,4 +1,4 @@
-# Analyzing COVID-19 Trend Data with SQL
+# Analyzing COVID-19 Pandemic Data Trends with SQL
 
 ## Description
 This project demonstrates the data analysis process of early reported data during the Covid-19 global pandemic (2020-2021) with the objective of highlighting key trends during the onset and eventual decline of the outbreak. These metrics include infection rates, death count, and vaccination coverage across individual countries, larger regions, and globally. This workflow culminates in a dynamic, comprehensible Power BI dashboard that allows users to see and interact with visualizations displaying these insights. Please see below for more details regarding the process of this data analysis workflow. 
