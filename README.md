@@ -22,5 +22,3 @@ Please note the data used was taken from 2020-2021 (see [CovidDeaths.csv](Datase
 
 ## Dashboard
 To access the dashboard, please download the [COVID_19_Dashboard.pbix](Data_Analysis/COVID_19_Dashboard.pbix) file and open it in Power BI Desktop. 
-
-![COVID_19 Data Exploration.pbix](Dashboard.png)
