@@ -1,15 +1,16 @@
 # Analyzing COVID-19 Pandemic Data Trends with SQL
 
 ## Description
-This project demonstrates the data analysis process of early reported data during the Covid-19 global pandemic (2020-2021) with the objective of highlighting key trends during the onset and eventual decline of the outbreak. These metrics include infection rates, death count, and vaccination coverage across individual countries, larger regions, and globally. This workflow culminates in a dynamic, comprehensible Power BI dashboard that allows users to see and interact with visualizations displaying these insights. Please see below for more details regarding the process of this data analysis workflow. 
+This project presents a comprehensive data analysis of reported information from the COVID-19 global pandemic (2020–2021), with the objective of identifying and illustrating key trends observed during both the onset and the subsequent decline of the outbreak. Using SQL, the analysis uncovers valuable insights into infection rates, death count, and vaccination coverage—examined by country, across broader regions, and globally. The analytical process culminates in a dynamic, user-friendly Power BI dashboard that enables users to see and interact with visualizations displaying our findings. The analytical process culminates in a dynamic, user-friendly Power BI dashboard that enables users to interact with visualizations and explore findings in an accessible and intuitive manner. This data-driven exploration facilitates a deeper understanding of regional and global responses to the pandemic and may serve to inform strategic decision-making by health officials and policymakers in the event of future public health crises.
 
-The steps used in this workflow: 
-  - The cleaning and optimization of large raw datasets to improve efficiency for processing and data manipulation in Excel. 
-  - Writing the SQL queries required to extract relevant data points and trends.
-  - Exporting query results as view tables so that they could be easily be integrated into Power BI.
-  - Loading and transforming view tables within Power BI using tools such as DAX and Power Query to ensure data accuracy, consistency, and clarity for presentation. 
-  - Creating and customizing interactive visual elements used to display and highlight important trends and insights. 
-  - Compiling the visualizations into one organized, cross-filtered dashboard allowing users to intuitively interact with multiple visual elements simultaneously and understand how one metric affects another. 
+## Data Analysis Workflow
+The analysis was carried out through the following key steps:
+  - Data Cleaning and Preparation: Large, raw datasets were cleaned and optimized using Excel to enhance processing efficiency and facilitate downstream data manipulation.
+  - Data Extraction: Developing SQL queries to extract relevant data points and uncover significant trends across various geographies and timeframes.
+  - Data Export and Integration: The resulting query outputs were exported as view tables, allowing seamless integration into the Power BI environment.
+  - Data Transformation in Power BI: Using Power Query and DAX, the imported data was transformed to ensure consistency, accuracy, and clarity for presentation.
+  - Interactive Visualization Design: Custom interactive visual elements—such as tables, charts, and maps—were developed to highlight crucial insights and patterns within the data. 
+  - Dashboard Compilation and Interactivity: These visualizations were consolidated into a well-organized, cross-filtered Power BI dashboard, enabling users to interact with multiple components simultaneously and gain a holistic understanding of how different metrics interrelate.
 
 ## Techonologies
 PostgreSQL (database and data manipulation), DataGrip (database IDE), Excel (data cleaning), Power Query (data cleaning/manipulation), DAX (data manipulation), Power BI (data visualization tool)
